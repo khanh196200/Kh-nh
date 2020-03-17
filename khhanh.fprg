@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Administrator"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-03-17 09:22:42 AM"/>
+        <attribute name="created" value="QWRtaW5pc3RyYXRvcjs2UzQ3UzVEMTM3U0VYRzE7MjAyMC0wMy0xNzswODo0MTo1NCBBTTszNjA2"/>
+        <attribute name="edited" value="QWRtaW5pc3RyYXRvcjs2UzQ3UzVEMTM3U0VYRzE7MjAyMC0wMy0xNzswOToyMjo0MiBBTTsxOzM3MTE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, h, s" type="Integer" array="False" size=""/>
+            <output expression="&quot;nh&#7853;p a&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;nh&#7853;p b&quot;" newline="True"/>
+            <input variable="b"/>
+            <output expression="&quot;nh&#7853;p h&quot;" newline="True"/>
+            <input variable="h"/>
+            <assign variable="s" expression="(1/2*h)*a*b"/>
+            <output expression="&quot;di&#7879;n t&#237;ch l&#224; :&quot;" newline="True"/>
+            <output expression="s" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
